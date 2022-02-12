@@ -1,3 +1,4 @@
+###проверка связи###
 import sys
 import stdio
 n = int (sys.argv[1])
